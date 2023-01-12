@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T00:00:53.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.8.4" etag="4SE1B4AK8pwTwCj7JAF3" type="github"><diagram id="QKj1WopRoKE9-pK32Hrp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-12T00:14:32.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.8.4" etag="fv0Axz23qo7ufYIAUBEF" type="github">
+  <diagram id="kfIaAO66w3CNtbJvDm8H" name="第 1 页">
+    <mxGraphModel dx="1593" dy="2382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lax4BuSt3pefn2nQ2NYm-1" target="Lax4BuSt3pefn2nQ2NYm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lax4BuSt3pefn2nQ2NYm-1" target="Lax4BuSt3pefn2nQ2NYm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lax4BuSt3pefn2nQ2NYm-1" target="Lax4BuSt3pefn2nQ2NYm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-1" value="读者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="-50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-3" value="还书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-4" value="借书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-5" value="查阅借阅信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="80" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-6" value="查询图书信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-10" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-7" value="预约图书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-8" value="维护图书信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="40" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lax4BuSt3pefn2nQ2NYm-10" target="Lax4BuSt3pefn2nQ2NYm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-10" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lax4BuSt3pefn2nQ2NYm-11" target="Lax4BuSt3pefn2nQ2NYm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lax4BuSt3pefn2nQ2NYm-11" target="Lax4BuSt3pefn2nQ2NYm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lax4BuSt3pefn2nQ2NYm-11" target="Lax4BuSt3pefn2nQ2NYm-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lax4BuSt3pefn2nQ2NYm-11" target="Lax4BuSt3pefn2nQ2NYm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-11" value="工作人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lax4BuSt3pefn2nQ2NYm-12" target="Lax4BuSt3pefn2nQ2NYm-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-12" value="时间" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="Lax4BuSt3pefn2nQ2NYm-11" target="Lax4BuSt3pefn2nQ2NYm-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="150" y="220" as="sourcePoint" />
+            <mxPoint x="310" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-20" value="维护读者信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-21" value="维护系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="260" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lax4BuSt3pefn2nQ2NYm-22" value="发送催还信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
